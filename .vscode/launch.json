@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/c++/contest",
-      "program": "e:/c++/contest/build/Debug/outDebug",
+      "cwd": "e:/c++/leetcode/ArrayString",
+      "program": "e:/c++/leetcode/ArrayString/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
